@@ -1,5 +1,5 @@
 # Greetings!  
 ### I'm Taran!
 - I like computers
-- Currrently trapped in high school :(
-- I like cats too 😻
+- Currently trapped in high school :(
+- I like cats and robotics
